@@ -20,9 +20,9 @@ D) Validação de Temperatura em Grau Farenheit(ºF).
 | Browser| Google Chrome|
 | ChromeDriver| Recurso de Software|
 | SeleniumWeb | Conjuntos de ferramentas para teste|
+| Plataforma de Ensino| Microsoft Teams|
 
-
-  # 💕 Agradecimentos!  
+  ## 💕 Agradecimentos!  
 
   - Professor Ezequiel Lima. 
 
@@ -30,7 +30,7 @@ D) Validação de Temperatura em Grau Farenheit(ºF).
 
   - Apoio de Material de Automação :      Professor Jonnathan Teixeira.
 
-  # 🔎 Referências
+  ## 🔎 Referências
 
   ▪️ Módulo I
 
