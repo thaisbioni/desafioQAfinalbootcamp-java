@@ -15,9 +15,10 @@ D) Validação de Temperatura em Grau Farenheit(ºF).
 |Ferramentas | Descrição |
 |------|---------|
 | IntelliJ|IDE|
-| Apache Maven| Gerenciador de Projetos em JAVA
+| Apache Maven| Gerenciador de Projetos em JAVA|
 | Site do Teste|[Open Weather Map](https://openweathermap.org/)|
-|ChromeDriver| Recurso de Software|
+| Browser| Google Chrome|
+| ChromeDriver| Recurso de Software|
 | SeleniumWeb | Conjuntos de ferramentas para teste|
 
 
