@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 public class Api {
 
-    static String apiKey = "82f040afc5a899598ad097d4e6eab16e";
+    static String apiKey = "Insira sua APIKEY";
 
     public static String getLatLon(String cidade) {
         String retorno = null;
