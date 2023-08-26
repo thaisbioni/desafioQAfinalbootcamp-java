@@ -1,6 +1,6 @@
-# 💻 Desafio Final - Automação em Java
+# 💻 Projeto Final - Automação WEB em Java
 
-PROJETO FINAL BOOTCAMP PROGRAMA TRAINEE QA - SYSMAP SOLUTIONS
+DESAFIO FINAL BOOTCAMP PROGRAMA TRAINEE QA - SYSMAP SOLUTIONS
 
 
 A) Abertura de Site no Browser;
